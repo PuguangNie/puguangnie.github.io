@@ -4,11 +4,10 @@ collection: teaching
 type: "Undergraduate and postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Econometrics and Business Statistics, Monash University"
-date: 2014-01-01
+date: 07/2020-12/2022
 location: #"City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
