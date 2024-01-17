@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Puguang Nie"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "PhD"
   location         : "Melbourne, Australia"
   employer         :
