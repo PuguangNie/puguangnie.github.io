@@ -16,4 +16,4 @@ I obtained my PhD in Econometrics and Statistics from Monash University in 2023.
 
 My research interest includes Applied Econometrics, Bayesian Statistics and Computational Statistics. 
 
-You can find my CV here: [Puguang Nie's CV](assets/CV_Puguang Nie.pdf)
+You can find my CV here: [Puguang Nie's CV](https://github.com/PuguangNie/puguangnie.github.io/tree/master/assets/CV_Puguang Nie.pdf)
