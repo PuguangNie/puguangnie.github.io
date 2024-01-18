@@ -20,4 +20,3 @@ You can find my CV here: [Puguang Nie's CV](../assets/CV_Puguang Nie.pdf).
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com.au/citations?user=6MiZtKEAAAAJ&hl=en).
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.
